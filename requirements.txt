@@ -1,0 +1,9 @@
+crewai~=0.28.7
+python-dotenv~=1.0.0
+requests~=2.31.0
+pillow~=10.2.0
+langchain~=0.1.17
+langchain-groq~=0.1.2
+beautifulsoup4~=4.12.3
+selenium~=4.19.0
+termcolor~=2.1.0
